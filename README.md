@@ -1,1 +1,1 @@
-# nuclear-reactor-control-and-protection-system
+# The system of the control and of the protection nuclear reactor
